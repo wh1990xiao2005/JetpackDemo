@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">JetpackDemo</string>
-    <string name="menu_main_activity_search">Search</string>
-    <string name="menu_main_activity_info">INFO</string>
-</resources>
